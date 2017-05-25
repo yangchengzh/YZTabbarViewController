@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6852B42F1ED6A5CC00B4E14C /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6852B42E1ED6A5CC00B4E14C /* HomeViewController.m */; };
+		6852B4521ED6A80D00B4E14C /* 6-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B4481ED6A80D00B4E14C /* 6-2@2x.png */; };
+		6852B4531ED6A80D00B4E14C /* 5-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B4491ED6A80D00B4E14C /* 5-2@2x.png */; };
+		6852B4541ED6A80D00B4E14C /* 8-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B44A1ED6A80D00B4E14C /* 8-1@2x.png */; };
+		6852B4561ED6A80D00B4E14C /* 6-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B44C1ED6A80D00B4E14C /* 6-1@2x.png */; };
+		6852B4571ED6A80D00B4E14C /* 7-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B44D1ED6A80D00B4E14C /* 7-1@2x.png */; };
+		6852B4581ED6A80D00B4E14C /* 5-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B44E1ED6A80D00B4E14C /* 5-1@2x.png */; };
+		6852B4591ED6A80D00B4E14C /* 8-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B44F1ED6A80D00B4E14C /* 8-2@2x.png */; };
+		6852B45B1ED6A80D00B4E14C /* 7-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B4511ED6A80D00B4E14C /* 7-2@2x.png */; };
+		6852B45E1ED6AC8A00B4E14C /* 1-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B45C1ED6AC8A00B4E14C /* 1-2@2x.png */; };
+		6852B45F1ED6AC8A00B4E14C /* 1-1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6852B45D1ED6AC8A00B4E14C /* 1-1@3x.png */; };
 		68BE4D871ED5710000D7FA2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4D861ED5710000D7FA2B /* main.m */; };
 		68BE4D8A1ED5710000D7FA2B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4D891ED5710000D7FA2B /* AppDelegate.m */; };
 		68BE4D8D1ED5710000D7FA2B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4D8C1ED5710000D7FA2B /* ViewController.m */; };
@@ -15,6 +26,11 @@
 		68BE4D951ED5710000D7FA2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68BE4D931ED5710000D7FA2B /* LaunchScreen.storyboard */; };
 		68BE4DA01ED5710000D7FA2B /* YZTabbarViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4D9F1ED5710000D7FA2B /* YZTabbarViewControllerTests.m */; };
 		68BE4DAB1ED5710000D7FA2B /* YZTabbarViewControllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DAA1ED5710000D7FA2B /* YZTabbarViewControllerUITests.m */; };
+		68BE4DBA1ED5712800D7FA2B /* YZTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DB91ED5712800D7FA2B /* YZTabBarViewController.m */; };
+		68BE4DBD1ED5718500D7FA2B /* InformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DBC1ED5718500D7FA2B /* InformationViewController.m */; };
+		68BE4DC01ED571B000D7FA2B /* LinkmanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DBF1ED571B000D7FA2B /* LinkmanViewController.m */; };
+		68BE4DC31ED571CA00D7FA2B /* DynamicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DC21ED571CA00D7FA2B /* DynamicViewController.m */; };
+		68BE4DC61ED57A0800D7FA2B /* YZTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BE4DC51ED57A0800D7FA2B /* YZTabBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +51,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6852B42D1ED6A5CC00B4E14C /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		6852B42E1ED6A5CC00B4E14C /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		6852B4481ED6A80D00B4E14C /* 6-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-2@2x.png"; sourceTree = "<group>"; };
+		6852B4491ED6A80D00B4E14C /* 5-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5-2@2x.png"; sourceTree = "<group>"; };
+		6852B44A1ED6A80D00B4E14C /* 8-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8-1@2x.png"; sourceTree = "<group>"; };
+		6852B44C1ED6A80D00B4E14C /* 6-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-1@2x.png"; sourceTree = "<group>"; };
+		6852B44D1ED6A80D00B4E14C /* 7-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7-1@2x.png"; sourceTree = "<group>"; };
+		6852B44E1ED6A80D00B4E14C /* 5-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5-1@2x.png"; sourceTree = "<group>"; };
+		6852B44F1ED6A80D00B4E14C /* 8-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8-2@2x.png"; sourceTree = "<group>"; };
+		6852B4511ED6A80D00B4E14C /* 7-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7-2@2x.png"; sourceTree = "<group>"; };
+		6852B45C1ED6AC8A00B4E14C /* 1-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1-2@2x.png"; sourceTree = "<group>"; };
+		6852B45D1ED6AC8A00B4E14C /* 1-1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1-1@3x.png"; sourceTree = "<group>"; };
 		68BE4D821ED5710000D7FA2B /* YZTabbarViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YZTabbarViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68BE4D861ED5710000D7FA2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		68BE4D881ED5710000D7FA2B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +79,16 @@
 		68BE4DA61ED5710000D7FA2B /* YZTabbarViewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YZTabbarViewControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68BE4DAA1ED5710000D7FA2B /* YZTabbarViewControllerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YZTabbarViewControllerUITests.m; sourceTree = "<group>"; };
 		68BE4DAC1ED5710000D7FA2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68BE4DB81ED5712800D7FA2B /* YZTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZTabBarViewController.h; sourceTree = "<group>"; };
+		68BE4DB91ED5712800D7FA2B /* YZTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZTabBarViewController.m; sourceTree = "<group>"; };
+		68BE4DBB1ED5718500D7FA2B /* InformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InformationViewController.h; sourceTree = "<group>"; };
+		68BE4DBC1ED5718500D7FA2B /* InformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InformationViewController.m; sourceTree = "<group>"; };
+		68BE4DBE1ED571B000D7FA2B /* LinkmanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkmanViewController.h; sourceTree = "<group>"; };
+		68BE4DBF1ED571B000D7FA2B /* LinkmanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinkmanViewController.m; sourceTree = "<group>"; };
+		68BE4DC11ED571CA00D7FA2B /* DynamicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DynamicViewController.h; sourceTree = "<group>"; };
+		68BE4DC21ED571CA00D7FA2B /* DynamicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DynamicViewController.m; sourceTree = "<group>"; };
+		68BE4DC41ED57A0800D7FA2B /* YZTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZTabBar.h; sourceTree = "<group>"; };
+		68BE4DC51ED57A0800D7FA2B /* YZTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZTabBar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +116,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6852B41B1ED6701100B4E14C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				68BE4DBB1ED5718500D7FA2B /* InformationViewController.h */,
+				68BE4DBC1ED5718500D7FA2B /* InformationViewController.m */,
+				68BE4DBE1ED571B000D7FA2B /* LinkmanViewController.h */,
+				68BE4DBF1ED571B000D7FA2B /* LinkmanViewController.m */,
+				68BE4DC11ED571CA00D7FA2B /* DynamicViewController.h */,
+				68BE4DC21ED571CA00D7FA2B /* DynamicViewController.m */,
+				6852B42D1ED6A5CC00B4E14C /* HomeViewController.h */,
+				6852B42E1ED6A5CC00B4E14C /* HomeViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		6852B42C1ED69FC800B4E14C /* image */ = {
+			isa = PBXGroup;
+			children = (
+				6852B45C1ED6AC8A00B4E14C /* 1-2@2x.png */,
+				6852B45D1ED6AC8A00B4E14C /* 1-1@3x.png */,
+				6852B4481ED6A80D00B4E14C /* 6-2@2x.png */,
+				6852B4491ED6A80D00B4E14C /* 5-2@2x.png */,
+				6852B44A1ED6A80D00B4E14C /* 8-1@2x.png */,
+				6852B44C1ED6A80D00B4E14C /* 6-1@2x.png */,
+				6852B44D1ED6A80D00B4E14C /* 7-1@2x.png */,
+				6852B44E1ED6A80D00B4E14C /* 5-1@2x.png */,
+				6852B44F1ED6A80D00B4E14C /* 8-2@2x.png */,
+				6852B4511ED6A80D00B4E14C /* 7-2@2x.png */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
 		68BE4D791ED5710000D7FA2B = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +175,12 @@
 				68BE4D891ED5710000D7FA2B /* AppDelegate.m */,
 				68BE4D8B1ED5710000D7FA2B /* ViewController.h */,
 				68BE4D8C1ED5710000D7FA2B /* ViewController.m */,
+				68BE4DB81ED5712800D7FA2B /* YZTabBarViewController.h */,
+				68BE4DB91ED5712800D7FA2B /* YZTabBarViewController.m */,
+				68BE4DC41ED57A0800D7FA2B /* YZTabBar.h */,
+				68BE4DC51ED57A0800D7FA2B /* YZTabBar.m */,
+				6852B42C1ED69FC800B4E14C /* image */,
+				6852B41B1ED6701100B4E14C /* Controller */,
 				68BE4D8E1ED5710000D7FA2B /* Main.storyboard */,
 				68BE4D911ED5710000D7FA2B /* Assets.xcassets */,
 				68BE4D931ED5710000D7FA2B /* LaunchScreen.storyboard */,
@@ -246,9 +322,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6852B4531ED6A80D00B4E14C /* 5-2@2x.png in Resources */,
+				6852B4541ED6A80D00B4E14C /* 8-1@2x.png in Resources */,
+				6852B4581ED6A80D00B4E14C /* 5-1@2x.png in Resources */,
+				6852B45F1ED6AC8A00B4E14C /* 1-1@3x.png in Resources */,
 				68BE4D951ED5710000D7FA2B /* LaunchScreen.storyboard in Resources */,
+				6852B4521ED6A80D00B4E14C /* 6-2@2x.png in Resources */,
+				6852B4591ED6A80D00B4E14C /* 8-2@2x.png in Resources */,
+				6852B4561ED6A80D00B4E14C /* 6-1@2x.png in Resources */,
+				6852B45E1ED6AC8A00B4E14C /* 1-2@2x.png in Resources */,
+				6852B45B1ED6A80D00B4E14C /* 7-2@2x.png in Resources */,
 				68BE4D921ED5710000D7FA2B /* Assets.xcassets in Resources */,
 				68BE4D901ED5710000D7FA2B /* Main.storyboard in Resources */,
+				6852B4571ED6A80D00B4E14C /* 7-1@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +359,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68BE4DBD1ED5718500D7FA2B /* InformationViewController.m in Sources */,
 				68BE4D8D1ED5710000D7FA2B /* ViewController.m in Sources */,
+				68BE4DBA1ED5712800D7FA2B /* YZTabBarViewController.m in Sources */,
 				68BE4D8A1ED5710000D7FA2B /* AppDelegate.m in Sources */,
+				68BE4DC61ED57A0800D7FA2B /* YZTabBar.m in Sources */,
+				6852B42F1ED6A5CC00B4E14C /* HomeViewController.m in Sources */,
 				68BE4D871ED5710000D7FA2B /* main.m in Sources */,
+				68BE4DC01ED571B000D7FA2B /* LinkmanViewController.m in Sources */,
+				68BE4DC31ED571CA00D7FA2B /* DynamicViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +599,7 @@
 				68BE4DB11ED5710000D7FA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68BE4DB21ED5710000D7FA2B /* Build configuration list for PBXNativeTarget "YZTabbarViewControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +608,7 @@
 				68BE4DB41ED5710000D7FA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68BE4DB51ED5710000D7FA2B /* Build configuration list for PBXNativeTarget "YZTabbarViewControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +617,7 @@
 				68BE4DB71ED5710000D7FA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
